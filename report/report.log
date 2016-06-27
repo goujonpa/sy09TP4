@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.14)  27 JUN 2016 02:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.14)  27 JUN 2016 04:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -570,6 +570,12 @@ LaTeX Warning: Label `tab:table1' multiply defined.
 
 LaTeX Warning: Label `tab:table1' multiply defined.
 
+
+LaTeX Warning: Label `tab:table1' multiply defined.
+
+
+LaTeX Warning: Label `tab:table1' multiply defined.
+
 )
 \openout1 = `report.aux'.
 
@@ -654,7 +660,7 @@ rt.toc)
 
 ]
 Chapitre 1.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 64.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 60.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ) [1
@@ -668,7 +674,7 @@ Chapitre 3.
 [4
 
 ]
-Overfull \hbox (1.90385pt too wide) in paragraph at lines 159--160
+Overfull \hbox (1.90385pt too wide) in paragraph at lines 149--150
  \T1/cmr/bx/n/10 In-tro-duc-tion[] \T1/cmr/m/n/10 Pour fi-nir, nous sup-po-ser 
 l'in-dé-pen-dance des va-riables $\OML/cmm/m/it/10 X[]$ \T1/cmr/m/n/10 condi-
  []
@@ -685,37 +691,37 @@ Chapitre 5.
 File: results/adq/adq-Synth1.pdf Graphic file (type pdf)
 
 <use results/adq/adq-Synth1.pdf>
-Package pdftex.def Info: results/adq/adq-Synth1.pdf used on input line 336.
+Package pdftex.def Info: results/adq/adq-Synth1.pdf used on input line 327.
 (pdftex.def)             Requested size: 241.49895pt x 241.50444pt.
 
 <results/adl/adl-Synth1.pdf, id=64, 505.89pt x 505.89pt>
 File: results/adl/adl-Synth1.pdf Graphic file (type pdf)
 
 <use results/adl/adl-Synth1.pdf>
-Package pdftex.def Info: results/adl/adl-Synth1.pdf used on input line 343.
+Package pdftex.def Info: results/adl/adl-Synth1.pdf used on input line 334.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
 
 <results/nba/nba-Synth1.pdf, id=65, 505.89pt x 505.89pt>
 File: results/nba/nba-Synth1.pdf Graphic file (type pdf)
 
 <use results/nba/nba-Synth1.pdf>
-Package pdftex.def Info: results/nba/nba-Synth1.pdf used on input line 350.
+Package pdftex.def Info: results/nba/nba-Synth1.pdf used on input line 341.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
 
 <results/binlrt/binlrt-Synth1.pdf, id=66, 505.89pt x 505.89pt>
 File: results/binlrt/binlrt-Synth1.pdf Graphic file (type pdf)
 
 <use results/binlrt/binlrt-Synth1.pdf>
-Package pdftex.def Info: results/binlrt/binlrt-Synth1.pdf used on input line 35
-7.
+Package pdftex.def Info: results/binlrt/binlrt-Synth1.pdf used on input line 34
+8.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
 
 <results/binlrf/binlrf-Synth1.pdf, id=67, 505.89pt x 505.89pt>
 File: results/binlrf/binlrf-Synth1.pdf Graphic file (type pdf)
 
 <use results/binlrf/binlrf-Synth1.pdf>
-Package pdftex.def Info: results/binlrf/binlrf-Synth1.pdf used on input line 36
-4.
+Package pdftex.def Info: results/binlrf/binlrf-Synth1.pdf used on input line 35
+5.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
 
 <results/quadlrt/quadlrt-Synth1.pdf, id=68, 505.89pt x 505.89pt>
@@ -723,7 +729,7 @@ File: results/quadlrt/quadlrt-Synth1.pdf Graphic file (type pdf)
 
 <use results/quadlrt/quadlrt-Synth1.pdf>
 Package pdftex.def Info: results/quadlrt/quadlrt-Synth1.pdf used on input line 
-371.
+362.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
 
 <results/quadlrf/quadlrf-Synth1.pdf, id=69, 505.89pt x 505.89pt>
@@ -731,7 +737,7 @@ File: results/quadlrf/quadlrf-Synth1.pdf Graphic file (type pdf)
 
 <use results/quadlrf/quadlrf-Synth1.pdf>
 Package pdftex.def Info: results/quadlrf/quadlrf-Synth1.pdf used on input line 
-378.
+369.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
  [12 <./results/adq/adq-Synth1.pdf>]
 [13 <./results/adl/adl-Synth1.pdf> <./results/nba/nba-Synth1.pdf>] [14 <./resul
@@ -743,37 +749,37 @@ ts/quadlrt/quadlrt-Synth1.pdf> <./results/quadlrf/quadlrf-Synth1.pdf>] [16
 File: results/adq/adq-Synth2.pdf Graphic file (type pdf)
 
 <use results/adq/adq-Synth2.pdf>
-Package pdftex.def Info: results/adq/adq-Synth2.pdf used on input line 424.
+Package pdftex.def Info: results/adq/adq-Synth2.pdf used on input line 415.
 (pdftex.def)             Requested size: 241.49895pt x 241.50444pt.
  [17 <./results/adq/adq-Synth2.pdf>]
 <results/adl/adl-Synth2.pdf, id=147, 505.89pt x 505.89pt>
 File: results/adl/adl-Synth2.pdf Graphic file (type pdf)
 
 <use results/adl/adl-Synth2.pdf>
-Package pdftex.def Info: results/adl/adl-Synth2.pdf used on input line 432.
+Package pdftex.def Info: results/adl/adl-Synth2.pdf used on input line 423.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
 
 <results/nba/nba-Synth2.pdf, id=148, 505.89pt x 505.89pt>
 File: results/nba/nba-Synth2.pdf Graphic file (type pdf)
 
 <use results/nba/nba-Synth2.pdf>
-Package pdftex.def Info: results/nba/nba-Synth2.pdf used on input line 439.
+Package pdftex.def Info: results/nba/nba-Synth2.pdf used on input line 430.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
 
 <results/binlrt/binlrt-Synth2.pdf, id=149, 505.89pt x 505.89pt>
 File: results/binlrt/binlrt-Synth2.pdf Graphic file (type pdf)
 
 <use results/binlrt/binlrt-Synth2.pdf>
-Package pdftex.def Info: results/binlrt/binlrt-Synth2.pdf used on input line 44
-6.
+Package pdftex.def Info: results/binlrt/binlrt-Synth2.pdf used on input line 43
+7.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
 
 <results/binlrf/binlrf-Synth2.pdf, id=150, 505.89pt x 505.89pt>
 File: results/binlrf/binlrf-Synth2.pdf Graphic file (type pdf)
 
 <use results/binlrf/binlrf-Synth2.pdf>
-Package pdftex.def Info: results/binlrf/binlrf-Synth2.pdf used on input line 45
-3.
+Package pdftex.def Info: results/binlrf/binlrf-Synth2.pdf used on input line 44
+4.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
 
 <results/quadlrt/quadlrt-Synth2.pdf, id=151, 505.89pt x 505.89pt>
@@ -781,7 +787,7 @@ File: results/quadlrt/quadlrt-Synth2.pdf Graphic file (type pdf)
 
 <use results/quadlrt/quadlrt-Synth2.pdf>
 Package pdftex.def Info: results/quadlrt/quadlrt-Synth2.pdf used on input line 
-460.
+451.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
 
 <results/quadlrf/quadlrf-Synth2.pdf, id=152, 505.89pt x 505.89pt>
@@ -789,7 +795,7 @@ File: results/quadlrf/quadlrf-Synth2.pdf Graphic file (type pdf)
 
 <use results/quadlrf/quadlrf-Synth2.pdf>
 Package pdftex.def Info: results/quadlrf/quadlrf-Synth2.pdf used on input line 
-467.
+458.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
  [18 <./results/adl/adl-Synth2.pdf> <./results/nba/nba-Synth2.pdf>] [19 <./resu
 lts/binlrt/binlrt-Synth2.pdf> <./results/binlrf/binlrf-Synth2.pdf>] [20 <./resu
@@ -800,37 +806,37 @@ lts/quadlrt/quadlrt-Synth2.pdf> <./results/quadlrf/quadlrf-Synth2.pdf>] [21
 File: results/adq/adq-Synth3.pdf Graphic file (type pdf)
 
 <use results/adq/adq-Synth3.pdf>
-Package pdftex.def Info: results/adq/adq-Synth3.pdf used on input line 512.
+Package pdftex.def Info: results/adq/adq-Synth3.pdf used on input line 503.
 (pdftex.def)             Requested size: 241.49895pt x 241.50444pt.
  [22 <./results/adq/adq-Synth3.pdf>]
 <results/adl/adl-Synth3.pdf, id=219, 505.89pt x 505.89pt>
 File: results/adl/adl-Synth3.pdf Graphic file (type pdf)
 
 <use results/adl/adl-Synth3.pdf>
-Package pdftex.def Info: results/adl/adl-Synth3.pdf used on input line 520.
+Package pdftex.def Info: results/adl/adl-Synth3.pdf used on input line 511.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
 
 <results/nba/nba-Synth3.pdf, id=220, 505.89pt x 505.89pt>
 File: results/nba/nba-Synth3.pdf Graphic file (type pdf)
 
 <use results/nba/nba-Synth3.pdf>
-Package pdftex.def Info: results/nba/nba-Synth3.pdf used on input line 527.
+Package pdftex.def Info: results/nba/nba-Synth3.pdf used on input line 518.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
 
 <results/binlrt/binlrt-Synth3.pdf, id=221, 505.89pt x 505.89pt>
 File: results/binlrt/binlrt-Synth3.pdf Graphic file (type pdf)
 
 <use results/binlrt/binlrt-Synth3.pdf>
-Package pdftex.def Info: results/binlrt/binlrt-Synth3.pdf used on input line 53
-4.
+Package pdftex.def Info: results/binlrt/binlrt-Synth3.pdf used on input line 52
+5.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
 
 <results/binlrf/binlrf-Synth3.pdf, id=222, 505.89pt x 505.89pt>
 File: results/binlrf/binlrf-Synth3.pdf Graphic file (type pdf)
 
 <use results/binlrf/binlrf-Synth3.pdf>
-Package pdftex.def Info: results/binlrf/binlrf-Synth3.pdf used on input line 54
-1.
+Package pdftex.def Info: results/binlrf/binlrf-Synth3.pdf used on input line 53
+2.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
 
 <results/quadlrt/quadlrt-Synth3.pdf, id=223, 505.89pt x 505.89pt>
@@ -838,7 +844,7 @@ File: results/quadlrt/quadlrt-Synth3.pdf Graphic file (type pdf)
 
 <use results/quadlrt/quadlrt-Synth3.pdf>
 Package pdftex.def Info: results/quadlrt/quadlrt-Synth3.pdf used on input line 
-548.
+539.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
 
 <results/quadlrf/quadlrf-Synth3.pdf, id=224, 505.89pt x 505.89pt>
@@ -846,11 +852,15 @@ File: results/quadlrf/quadlrf-Synth3.pdf Graphic file (type pdf)
 
 <use results/quadlrf/quadlrf-Synth3.pdf>
 Package pdftex.def Info: results/quadlrf/quadlrf-Synth3.pdf used on input line 
-555.
+546.
 (pdftex.def)             Requested size: 207.0021pt x 207.00711pt.
  [23 <./results/adl/adl-Synth3.pdf> <./results/nba/nba-Synth3.pdf>] [24 <./resu
 lts/binlrt/binlrt-Synth3.pdf> <./results/binlrf/binlrf-Synth3.pdf>] [25 <./resu
 lts/quadlrt/quadlrt-Synth3.pdf> <./results/quadlrf/quadlrf-Synth3.pdf>] [26
+
+] [27] [28] [29]
+Chapitre 6.
+[30
 
 ] (./report.aux)
 
@@ -858,13 +868,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 8224 strings out of 493089
- 115711 string characters out of 6134842
+ 8226 strings out of 493089
+ 115734 string characters out of 6134842
  245487 words of memory out of 5000000
- 11532 multiletter control sequences out of 15000+600000
+ 11534 multiletter control sequences out of 15000+600000
  20990 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,9n,40p,1186b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,9n,40p,1557b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
@@ -886,10 +896,10 @@ texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2015/te
 xmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2015/texm
 f-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2015/texmf-
 dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on report.pdf (28 pages, 448572 bytes).
+Output written on report.pdf (32 pages, 455239 bytes).
 PDF statistics:
- 345 PDF objects out of 1000 (max. 8388607)
- 250 compressed objects within 3 object streams
+ 358 PDF objects out of 1000 (max. 8388607)
+ 259 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  106 words of extra memory for PDF output out of 10000 (max. 10000000)
 

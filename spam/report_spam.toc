@@ -1,0 +1,24 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {paragraph}{Objectifs}{1}
+\contentsline {chapter}{\numberline {2}Etude}{2}
+\contentsline {paragraph}{Introduction}{2}
+\contentsline {section}{\numberline {2.1}Caract\IeC {\'e}ristiques g\IeC {\'e}n\IeC {\'e}rales du dataset}{2}
+\contentsline {paragraph}{Introduction}{2}
+\contentsline {paragraph}{Corr\IeC {\'e}lation}{2}
+\contentsline {paragraph}{Interpr\IeC {\'e}tation}{4}
+\contentsline {paragraph}{ACP}{4}
+\contentsline {paragraph}{Interpr\IeC {\'e}tation}{5}
+\contentsline {paragraph}{Caract\IeC {\'e}ristiques g\IeC {\'e}n\IeC {\'e}rales}{5}
+\contentsline {paragraph}{Conclusion}{5}
+\contentsline {section}{\numberline {2.2}Tests des classifieurs du TP4}{5}
+\contentsline {paragraph}{Introduction}{5}
+\contentsline {paragraph}{R\IeC {\'e}sultats}{5}
+\contentsline {paragraph}{Interpr\IeC {\'e}tation}{5}
+\contentsline {section}{\numberline {2.3}Etude de la litterature}{6}
+\contentsline {paragraph}{Introduction}{6}
+\contentsline {paragraph}{Naive Bayes spam filtering}{6}
+\contentsline {paragraph}{Support Vector Machine}{6}
+\contentsline {paragraph}{Perceptron}{7}
+\contentsline {chapter}{\numberline {3}Conclusion}{8}
+\contentsline {paragraph}{Conclusion}{8}

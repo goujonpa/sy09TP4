@@ -15,3 +15,4 @@ Implemented :
 * Binary Logistic Regression
 * Quadratic Logistic Regression
 * Decision Trees
+
